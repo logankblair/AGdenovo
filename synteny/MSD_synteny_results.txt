@@ -1,0 +1,141 @@
+Query_gene_ID	status_Dsim	method_Dsim	method_Dyak	method
+G10930	confirmed	auto	confirmed	auto
+G11134	confirmed	auto	confirmed	auto
+G11139	confirmed	auto	confirmed	auto
+G11225	confirmed	manual	confirmed	manual
+G11373	confirmed	auto	confirmed	auto
+G11418	confirmed	auto	confirmed	auto
+G1251	confirmed	auto	confirmed	auto
+G1258	confirmed	auto	confirmed	manual
+G1266	confirmed	auto	confirmed	auto
+G1351	confirmed	auto	confirmed	auto
+G1355	confirmed	auto	confirmed	auto
+G1406	confirmed	auto	confirmed	auto
+G1420	confirmed	auto	confirmed	auto
+G1515	confirmed	auto	confirmed	auto
+G1547	confirmed	auto	confirmed	auto
+G1548	confirmed	auto	confirmed	auto
+G1620	confirmed	auto	confirmed	auto
+G1625	confirmed	auto	confirmed	auto
+G1626	confirmed	auto	confirmed	auto
+G1725	confirmed	auto	not confirmed	auto
+G1777	confirmed	auto	not confirmed	auto
+G1817	confirmed	auto	not confirmed	auto
+G1851	confirmed	auto	not confirmed	auto
+G2070	confirmed	auto	not confirmed	auto
+G2202	confirmed	manual	confirmed	manual
+G227	confirmed	auto	confirmed	auto
+G2621	confirmed	auto	not confirmed	auto
+G2632	confirmed	auto	not confirmed	auto
+G2784	confirmed	auto	not confirmed	auto
+G3076	confirmed	auto	confirmed	auto
+G3266	confirmed	auto	confirmed	auto
+G3638	confirmed	auto	confirmed	auto
+G3677	confirmed	auto	confirmed	manual
+G3695	confirmed	auto	confirmed	auto
+G3742	confirmed	auto	confirmed	auto
+G3743	confirmed	auto	confirmed	auto
+G3764	confirmed	auto	confirmed	auto
+G3849	confirmed	auto	confirmed	auto
+G4062	confirmed	auto	confirmed	auto
+G4063	confirmed	auto	confirmed	auto
+G4065	confirmed	auto	confirmed	auto
+G4066	confirmed	auto	confirmed	auto
+G4067	confirmed	auto	confirmed	auto
+G4076	confirmed	auto	confirmed	auto
+G4077	confirmed	auto	confirmed	auto
+G4078	confirmed	auto	confirmed	auto
+G4082	confirmed	auto	confirmed	auto
+G410	confirmed	auto	confirmed	manual
+G4140	confirmed	auto	confirmed	auto
+G4230	confirmed	auto	confirmed	auto
+G4237	confirmed	auto	confirmed	auto
+G4277	confirmed	auto	not confirmed	auto
+G4286	confirmed	auto	not confirmed	auto
+G4332	confirmed	auto	confirmed	manual
+G4371	confirmed	auto	confirmed	auto
+G4457	confirmed	auto	confirmed	auto
+G5117	confirmed	auto	confirmed	auto
+G5130	confirmed	auto	confirmed	auto
+G5203	confirmed	auto	confirmed	auto
+G5204	confirmed	auto	confirmed	auto
+G5205	confirmed	auto	confirmed	auto
+G5206	confirmed	auto	confirmed	auto
+G5212	confirmed	auto	confirmed	auto
+G5232	confirmed	auto	confirmed	auto
+G5233	confirmed	auto	confirmed	auto
+G5235	confirmed	auto	confirmed	auto
+G5248	confirmed	auto	confirmed	auto
+G5250	confirmed	auto	confirmed	auto
+G5309	confirmed	auto	confirmed	auto
+G5314	confirmed	auto	confirmed	auto
+G5438	confirmed	auto	confirmed	auto
+G5585	confirmed	auto	confirmed	auto
+G5586	confirmed	auto	confirmed	auto
+G5611	confirmed	auto	confirmed	auto
+G5614	confirmed	auto	confirmed	auto
+G5617	confirmed	auto	confirmed	auto
+G5620	confirmed	auto	confirmed	auto
+G5629	confirmed	auto	not confirmed	auto
+G5673	confirmed	auto	confirmed	auto
+G5684	confirmed	auto	confirmed	manual
+G5688	confirmed	auto	confirmed	manual
+G5886	confirmed	auto	confirmed	auto
+G5900	confirmed	manual	confirmed	manual
+G5904	confirmed	manual	confirmed	manual
+G6002	confirmed	auto	confirmed	auto
+G6037	confirmed	auto	confirmed	auto
+G6046	confirmed	auto	not confirmed	manual
+G6090	confirmed	auto	confirmed	auto
+G6092	confirmed	auto	confirmed	auto
+G6093	confirmed	auto	confirmed	auto
+G6162	confirmed	auto	not confirmed	auto
+G620	confirmed	auto	confirmed	auto
+G6312	confirmed	manual	confirmed	auto
+G6352	confirmed	auto	confirmed	auto
+G6356	confirmed	auto	confirmed	auto
+G6374	confirmed	auto	confirmed	auto
+G6423	confirmed	auto	confirmed	auto
+G6424	confirmed	auto	confirmed	auto
+G6430	confirmed	auto	confirmed	manual
+G654	confirmed	auto	confirmed	auto
+G658	confirmed	auto	confirmed	auto
+G6590	confirmed	auto	confirmed	manual
+G6591	confirmed	auto	confirmed	manual
+G6706	confirmed	manual	confirmed	manual
+G6722	confirmed	auto	confirmed	manual
+G6726	confirmed	auto	confirmed	manual
+G6729	confirmed	auto	confirmed	manual
+G6733	confirmed	auto	confirmed	auto
+G6963	not confirmed	manual	not confirmed	manual
+G7056	confirmed	manual	confirmed	manual
+G7057	confirmed	manual	confirmed	manual
+G7190	confirmed	auto	confirmed	auto
+G720	confirmed	auto	confirmed	auto
+G7283	confirmed	auto	confirmed	manual
+G7328	confirmed	auto	not confirmed	auto
+G7357	confirmed	auto	confirmed	manual
+G783	confirmed	auto	confirmed	auto
+G808	confirmed	auto	confirmed	auto
+G8095	confirmed	auto	confirmed	manual
+G816	confirmed	auto	confirmed	auto
+G8203	confirmed	manual	confirmed	auto
+G8241	confirmed	auto	confirmed	auto
+G8267	confirmed	auto	confirmed	auto
+G8433	confirmed	auto	confirmed	auto
+G8752	confirmed	auto	confirmed	auto
+G8997	confirmed	auto	confirmed	auto
+G9031	confirmed	manual	confirmed	auto
+G9041	confirmed	manual	confirmed	auto
+G9065	confirmed	auto	confirmed	auto
+G9199	confirmed	auto	confirmed	auto
+G9200	confirmed	auto	confirmed	auto
+G9232	confirmed	auto	confirmed	auto
+G9398	confirmed	auto	confirmed	auto
+G9432	confirmed	auto	confirmed	auto
+G9493	confirmed	auto	confirmed	auto
+G9561	confirmed	auto	confirmed	auto
+G9724	not confirmed	manual	not confirmed	manual
+G9826	confirmed	auto	confirmed	auto
+G9847	confirmed	auto	confirmed	auto
+G998	confirmed	auto	confirmed	auto
